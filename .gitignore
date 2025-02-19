@@ -11,3 +11,10 @@
 *.pptx
 *.msix
 *.lnk
+*.log
+AppData/
+*.tmp
+*.lnk
+__pycache__/
+*.ipynb_checkpoints/
+venv/
